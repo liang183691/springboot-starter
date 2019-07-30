@@ -1,0 +1,7 @@
+rabbit:
+  mq:
+    host: localhost
+    port: 5672
+    username: liang
+    password: 123456
+    #confirms: true
