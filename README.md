@@ -1,0 +1,1 @@
+这是一个自定义的rabbitmq的starter
